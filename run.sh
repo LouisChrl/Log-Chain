@@ -1,0 +1,1 @@
+docker compose -f Infra/docker-compose.yml up -d
